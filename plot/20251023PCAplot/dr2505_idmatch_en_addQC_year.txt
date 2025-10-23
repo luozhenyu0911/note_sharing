@@ -1,0 +1,1125 @@
+Paired_ID	Meta_ID	Sample_type	Sample_type_QC	Experimental_batch	Year	type_year
+4671269098-1	X1	Maternal blood	Samples	1	15	Maternal blood_15
+5412358713-1	X10	Maternal blood	Samples	1	15	Maternal blood_15
+1877165600-1	X100	Maternal blood	Samples	2	15	Maternal blood_15
+7655225073-1	X1000	Cord blood	Samples	2	17	Cord blood_17
+7203744606-1	X1001	Cord blood	Samples	2	17	Cord blood_17
+1201686827-1	X1002	Cord blood	Samples	2	17	Cord blood_17
+8694061627-1	X1003	Cord blood	Samples	1	17	Cord blood_17
+4416213666-1	X1004	Cord blood	Samples	1	17	Cord blood_17
+385008892-1	X1005	Cord blood	Samples	2	17	Cord blood_17
+4343373656-1	X1006	Cord blood	Samples	1	17	Cord blood_17
+9518352066-1	X1007	Cord blood	Samples	1	17	Cord blood_17
+9709084923-1	X1008	Cord blood	Samples	1	17	Cord blood_17
+2143907943-1	X1009	Cord blood	Samples	2	17	Cord blood_17
+9979048483-1	X101	Maternal blood	Samples	1	15	Maternal blood_15
+2254742613-2	X1010	Cord blood	Samples	1	17	Cord blood_17
+9757791096-1	X1011	Cord blood	Samples	1	17	Cord blood_17
+5732497040-1	X1012	Cord blood	Samples	2	17	Cord blood_17
+4132265422-1	X1013	Cord blood	Samples	1	17	Cord blood_17
+7196054918-2	X1014	Cord blood	Samples	2	17	Cord blood_17
+7114693753-1	X1015	Cord blood	Samples	1	17	Cord blood_17
+6449830609-1	X1016	Cord blood	Samples	2	17	Cord blood_17
+1479816246-2	X1017	Cord blood	Samples	2	17	Cord blood_17
+464731292-1	X1018	Cord blood	Samples	1	17	Cord blood_17
+9203078313-1	X1019	Cord blood	Samples	1	17	Cord blood_17
+5546972735-1	X102	Maternal blood	Samples	2	15	Maternal blood_15
+8938687839-1	X1020	Cord blood	Samples	1	17	Cord blood_17
+4410476081-1	X1021	Cord blood	Samples	1	17	Cord blood_17
+7860274681-1	X1022	Cord blood	Samples	2	17	Cord blood_17
+8458018181-1	X1023	Cord blood	Samples	1	17	Cord blood_17
+8656399812-1	X1024	Cord blood	Samples	1	17	Cord blood_17
+6216936361-1	X1025	Cord blood	Samples	2	17	Cord blood_17
+7490970090-1	X1026	Cord blood	Samples	1	17	Cord blood_17
+8541436846-1	X1027	Cord blood	Samples	1	17	Cord blood_17
+5901545945-1	X1028	Cord blood	Samples	1	17	Cord blood_17
+8442649002-1	X1029	Cord blood	Samples	1	17	Cord blood_17
+2486136216-1	X103	Maternal blood	Samples	1	15	Maternal blood_15
+6190594856-1	X1030	Cord blood	Samples	1	17	Cord blood_17
+3118762594-1	X104	Maternal blood	Samples	2	15	Maternal blood_15
+3136241884-1	X105	Maternal blood	Samples	2	15	Maternal blood_15
+1648835037-1	X106	Maternal blood	Samples	2	15	Maternal blood_15
+1376048681-1	X107	Maternal blood	Samples	2	15	Maternal blood_15
+9554287730-1	X108	Maternal blood	Samples	1	15	Maternal blood_15
+8260687137-1	X109	Maternal blood	Samples	1	15	Maternal blood_15
+5536546663-1	X11	Maternal blood	Samples	2	15	Maternal blood_15
+9302592137-1	X110	Maternal blood	Samples	2	15	Maternal blood_15
+4383221023-1	X111	Maternal blood	Samples	1	15	Maternal blood_15
+9125253562-1	X112	Maternal blood	Samples	2	15	Maternal blood_15
+9432683889-1	X113	Maternal blood	Samples	1	15	Maternal blood_15
+6214384192-1	X114	Maternal blood	Samples	1	15	Maternal blood_15
+1159296217-1	X115	Maternal blood	Samples	1	15	Maternal blood_15
+4512489645-1	X116	Maternal blood	Samples	2	15	Maternal blood_15
+3319289131-1	X117	Maternal blood	Samples	1	15	Maternal blood_15
+5022493612-1	X118	Maternal blood	Samples	1	15	Maternal blood_15
+9078319314-1	X119	Maternal blood	Samples	1	15	Maternal blood_15
+4598554957-1	X12	Maternal blood	Samples	2	15	Maternal blood_15
+8481161039-1	X120	Maternal blood	Samples	2	15	Maternal blood_15
+4335540646-1	X121	Maternal blood	Samples	1	15	Maternal blood_15
+7901957937-1	X122	Maternal blood	Samples	1	15	Maternal blood_15
+234795394-1	X123	Maternal blood	Samples	1	15	Maternal blood_15
+1799127451-1	X124	Maternal blood	Samples	2	15	Maternal blood_15
+305720726-1	X125	Maternal blood	Samples	2	15	Maternal blood_15
+5735388028-1	X126	Maternal blood	Samples	1	15	Maternal blood_15
+6484924404-1	X127	Maternal blood	Samples	1	15	Maternal blood_15
+8679497083-1	X128	Maternal blood	Samples	1	15	Maternal blood_15
+3576835265-1	X129	Maternal blood	Samples	1	15	Maternal blood_15
+5528381814-1	X13	Maternal blood	Samples	2	15	Maternal blood_15
+2766572308-1	X130	Maternal blood	Samples	2	15	Maternal blood_15
+957582272-1	X131	Maternal blood	Samples	2	15	Maternal blood_15
+4109334910-1	X132	Maternal blood	Samples	2	15	Maternal blood_15
+2418955374-1	X133	Maternal blood	Samples	1	15	Maternal blood_15
+5240158757-1	X134	Maternal blood	Samples	2	15	Maternal blood_15
+9451569099-1	X135	Maternal blood	Samples	2	15	Maternal blood_15
+656640255-1	X136	Maternal blood	Samples	2	15	Maternal blood_15
+3594236282-1	X137	Maternal blood	Samples	1	15	Maternal blood_15
+7722385673-1	X138	Maternal blood	Samples	1	15	Maternal blood_15
+3642522307-1	X139	Maternal blood	Samples	1	15	Maternal blood_15
+1729806098-1	X14	Maternal blood	Samples	2	15	Maternal blood_15
+4989865932-1	X140	Maternal blood	Samples	2	15	Maternal blood_15
+5387061766-1	X141	Maternal blood	Samples	2	15	Maternal blood_15
+5726122104-1	X142	Maternal blood	Samples	1	15	Maternal blood_15
+2788467473-1	X143	Maternal blood	Samples	2	15	Maternal blood_15
+1779859835-1	X144	Maternal blood	Samples	1	15	Maternal blood_15
+1797209694-1	X145	Maternal blood	Samples	1	15	Maternal blood_15
+3632705134-1	X146	Maternal blood	Samples	1	15	Maternal blood_15
+2310613325-1	X147	Maternal blood	Samples	1	15	Maternal blood_15
+6025270617-1	X148	Maternal blood	Samples	2	15	Maternal blood_15
+6927363400-1	X149	Maternal blood	Samples	1	15	Maternal blood_15
+8613482713-1	X15	Maternal blood	Samples	1	15	Maternal blood_15
+8717468454-1	X150	Maternal blood	Samples	2	15	Maternal blood_15
+2620317536-1	X151	Maternal blood	Samples	2	15	Maternal blood_15
+5352692853-1	X152	Maternal blood	Samples	1	15	Maternal blood_15
+7135252601-1	X153	Maternal blood	Samples	2	15	Maternal blood_15
+2990744823-1	X154	Maternal blood	Samples	2	15	Maternal blood_15
+7375453304-1	X155	Maternal blood	Samples	2	15	Maternal blood_15
+1797139920-1	X156	Maternal blood	Samples	2	15	Maternal blood_15
+9349309578-1	X157	Maternal blood	Samples	2	15	Maternal blood_15
+128470212-1	X158	Maternal blood	Samples	2	15	Maternal blood_15
+3382606126-1	X159	Maternal blood	Samples	2	15	Maternal blood_15
+1252173735-1	X16	Maternal blood	Samples	1	15	Maternal blood_15
+3652300137-1	X160	Maternal blood	Samples	1	15	Maternal blood_15
+7959535069-1	X161	Maternal blood	Samples	1	15	Maternal blood_15
+6510356919-1	X162	Maternal blood	Samples	2	15	Maternal blood_15
+8874743142-1	X163	Maternal blood	Samples	1	15	Maternal blood_15
+2464869726-1	X164	Maternal blood	Samples	2	15	Maternal blood_15
+3626239050-1	X165	Maternal blood	Samples	1	15	Maternal blood_15
+5465114030-1	X166	Maternal blood	Samples	2	15	Maternal blood_15
+5174358624-1	X167	Maternal blood	Samples	2	15	Maternal blood_15
+287087783-1	X168	Maternal blood	Samples	2	15	Maternal blood_15
+8140262792-1	X169	Maternal blood	Samples	2	15	Maternal blood_15
+9798387810-1	X17	Maternal blood	Samples	2	15	Maternal blood_15
+6890530510-1	X170	Maternal blood	Samples	2	15	Maternal blood_15
+4164503474-1	X171	Maternal blood	Samples	1	15	Maternal blood_15
+5108216491-1	X172	Maternal blood	Samples	2	15	Maternal blood_15
+9470367077-1	X173	Maternal blood	Samples	1	15	Maternal blood_15
+684663085-1	X174	Maternal blood	Samples	1	15	Maternal blood_15
+4276485459-1	X175	Maternal blood	Samples	2	15	Maternal blood_15
+3308233908-1	X176	Maternal blood	Samples	2	15	Maternal blood_15
+4561369276-1	X177	Maternal blood	Samples	2	15	Maternal blood_15
+4435496248-1	X178	Maternal blood	Samples	2	15	Maternal blood_15
+2391926628-1	X179	Maternal blood	Samples	1	15	Maternal blood_15
+2477145713-1	X18	Maternal blood	Samples	2	15	Maternal blood_15
+6983974583-1	X180	Maternal blood	Samples	1	15	Maternal blood_15
+3391035880-1	X181	Maternal blood	Samples	2	15	Maternal blood_15
+2939546519-1	X182	Maternal blood	Samples	1	15	Maternal blood_15
+6269716860-1	X183	Maternal blood	Samples	1	15	Maternal blood_15
+5046751128-1	X184	Maternal blood	Samples	2	15	Maternal blood_15
+3867246668-1	X185	Maternal blood	Samples	2	15	Maternal blood_15
+6811108280-1	X186	Maternal blood	Samples	1	15	Maternal blood_15
+2775820201-1	X187	Maternal blood	Samples	1	15	Maternal blood_15
+4381259425-1	X188	Maternal blood	Samples	2	15	Maternal blood_15
+9079419215-1	X189	Maternal blood	Samples	1	15	Maternal blood_15
+4083759628-1	X19	Maternal blood	Samples	2	15	Maternal blood_15
+3132280187-1	X190	Maternal blood	Samples	2	15	Maternal blood_15
+805801991-1	X191	Maternal blood	Samples	1	15	Maternal blood_15
+7585967945-1	X192	Maternal blood	Samples	1	15	Maternal blood_15
+2183217016-1	X193	Maternal blood	Samples	1	15	Maternal blood_15
+1284947754-1	X194	Maternal blood	Samples	2	15	Maternal blood_15
+9320519426-1	X195	Maternal blood	Samples	1	15	Maternal blood_15
+9593091266-1	X196	Maternal blood	Samples	1	15	Maternal blood_15
+9547613817-1	X197	Maternal blood	Samples	1	15	Maternal blood_15
+5342294781-1	X198	Maternal blood	Samples	2	15	Maternal blood_15
+2891409761-1	X199	Maternal blood	Samples	2	15	Maternal blood_15
+9531628247-1	X2	Maternal blood	Samples	2	15	Maternal blood_15
+7862643137-1	X20	Maternal blood	Samples	2	15	Maternal blood_15
+4998050949-1	X200	Maternal blood	Samples	2	15	Maternal blood_15
+1586585460-1	X201	Maternal blood	Samples	2	15	Maternal blood_15
+1225750037-1	X202	Maternal blood	Samples	1	15	Maternal blood_15
+7524756471-1	X203	Maternal blood	Samples	1	15	Maternal blood_15
+9470877228-1	X204	Maternal blood	Samples	1	15	Maternal blood_15
+7685823500-1	X205	Maternal blood	Samples	2	15	Maternal blood_15
+4900827344-1	X206	Maternal blood	Samples	1	15	Maternal blood_15
+4358753494-1	X207	Maternal blood	Samples	2	15	Maternal blood_15
+7670503639-1	X208	Maternal blood	Samples	1	15	Maternal blood_15
+5855052231-1	X209	Maternal blood	Samples	1	15	Maternal blood_15
+5467100532-1	X21	Maternal blood	Samples	2	15	Maternal blood_15
+7676842784-1	X210	Maternal blood	Samples	1	15	Maternal blood_15
+4144327526-1	X211	Maternal blood	Samples	1	15	Maternal blood_15
+4335424105-1	X212	Maternal blood	Samples	1	15	Maternal blood_15
+7196054918-2	X213	Maternal blood	Samples	1	16	Maternal blood_16
+8694061627-1	X214	Maternal blood	Samples	2	16	Maternal blood_16
+8541505936-1	X215	Maternal blood	Samples	1	16	Maternal blood_16
+9709084923-1	X216	Maternal blood	Samples	2	16	Maternal blood_16
+9518352066-1	X217	Maternal blood	Samples	1	16	Maternal blood_16
+5250510105-1	X218	Maternal blood	Samples	2	16	Maternal blood_16
+4132265422-1	X219	Maternal blood	Samples	1	16	Maternal blood_16
+8035402664-1	X22	Maternal blood	Samples	1	15	Maternal blood_15
+9203078313-1	X220	Maternal blood	Samples	1	16	Maternal blood_16
+8442649002-1	X221	Maternal blood	Samples	1	16	Maternal blood_16
+7114693753-1	X222	Maternal blood	Samples	1	16	Maternal blood_16
+1201686827-1	X223	Maternal blood	Samples	1	16	Maternal blood_16
+2143907943-1	X224	Maternal blood	Samples	1	16	Maternal blood_16
+9061300530-1	X225	Maternal blood	Samples	1	16	Maternal blood_16
+4410476081-1	X226	Maternal blood	Samples	1	16	Maternal blood_16
+464731292-1	X227	Maternal blood	Samples	1	16	Maternal blood_16
+6449830609-1	X228	Maternal blood	Samples	2	16	Maternal blood_16
+8656399812-1	X229	Maternal blood	Samples	2	16	Maternal blood_16
+2788648797-1	X23	Maternal blood	Samples	1	15	Maternal blood_15
+8938687839-1	X230	Maternal blood	Samples	1	16	Maternal blood_16
+4343373656-1	X231	Maternal blood	Samples	1	16	Maternal blood_16
+9757791096-1	X232	Maternal blood	Samples	1	16	Maternal blood_16
+9682866809-1	X233	Maternal blood	Samples	1	16	Maternal blood_16
+7490970090-1	X234	Maternal blood	Samples	1	16	Maternal blood_16
+6190594856-1	X235	Maternal blood	Samples	2	16	Maternal blood_16
+8541436846-1	X236	Maternal blood	Samples	2	16	Maternal blood_16
+385008892-1	X237	Maternal blood	Samples	2	16	Maternal blood_16
+7860274681-1	X238	Maternal blood	Samples	1	16	Maternal blood_16
+5732497040-1	X239	Maternal blood	Samples	1	16	Maternal blood_16
+8735198932-1	X24	Maternal blood	Samples	2	15	Maternal blood_15
+2254742613-2	X240	Maternal blood	Samples	2	16	Maternal blood_16
+7655225073-1	X241	Maternal blood	Samples	1	16	Maternal blood_16
+8458018181-1	X242	Maternal blood	Samples	2	16	Maternal blood_16
+4416213666-1	X243	Maternal blood	Samples	1	16	Maternal blood_16
+5901545945-1	X244	Maternal blood	Samples	1	16	Maternal blood_16
+7966809136-1	X245	Maternal blood	Samples	1	16	Maternal blood_16
+1479816246-2	X246	Maternal blood	Samples	1	16	Maternal blood_16
+7876247296-1	X247	Maternal blood	Samples	2	15	Maternal blood_15
+9727562968-1	X248	Maternal blood	Samples	1	15	Maternal blood_15
+2437500447-1	X249	Maternal blood	Samples	1	15	Maternal blood_15
+8317751287-1	X25	Maternal blood	Samples	1	15	Maternal blood_15
+8458404507-1	X250	Maternal blood	Samples	1	15	Maternal blood_15
+4612432650-1	X251	Maternal blood	Samples	2	15	Maternal blood_15
+9562974241-1	X252	Maternal blood	Samples	2	15	Maternal blood_15
+5468462237-1	X253	Maternal blood	Samples	1	15	Maternal blood_15
+3477529936-1	X254	Maternal blood	Samples	1	15	Maternal blood_15
+6328637449-1	X255	Maternal blood	Samples	2	15	Maternal blood_15
+8829365833-1	X256	Maternal blood	Samples	2	15	Maternal blood_15
+2311848831-1	X257	Maternal blood	Samples	2	15	Maternal blood_15
+9444637126-1	X258	Maternal blood	Samples	2	15	Maternal blood_15
+4047256607-1	X259	Maternal blood	Samples	1	15	Maternal blood_15
+1622275687-1	X26	Maternal blood	Samples	1	15	Maternal blood_15
+7779996328-1	X260	Maternal blood	Samples	1	15	Maternal blood_15
+9016681224-1	X261	Maternal blood	Samples	2	15	Maternal blood_15
+2601001436-1	X262	Maternal blood	Samples	1	15	Maternal blood_15
+8037037997-1	X263	Maternal blood	Samples	2	15	Maternal blood_15
+4027732691-1	X264	Maternal blood	Samples	2	15	Maternal blood_15
+3434027295-1	X265	Maternal blood	Samples	2	15	Maternal blood_15
+8623526901-1	X266	Maternal blood	Samples	1	15	Maternal blood_15
+2320340383-1	X267	Maternal blood	Samples	1	15	Maternal blood_15
+7106787519-1	X268	Maternal blood	Samples	2	15	Maternal blood_15
+8657553064-1	X269	Maternal blood	Samples	2	15	Maternal blood_15
+4749802083-1	X27	Maternal blood	Samples	2	15	Maternal blood_15
+4405439754-1	X270	Maternal blood	Samples	1	15	Maternal blood_15
+9708535573-1	X271	Maternal blood	Samples	2	15	Maternal blood_15
+1677875934-1	X272	Maternal blood	Samples	2	15	Maternal blood_15
+7693258709-1	X273	Maternal blood	Samples	1	16	Maternal blood_16
+5705671550-1	X274	Maternal blood	Samples	1	15	Maternal blood_15
+4337662032-1	X275	Maternal blood	Samples	2	15	Maternal blood_15
+1216706941-1	X276	Maternal blood	Samples	1	15	Maternal blood_15
+3865694084-1	X277	Maternal blood	Samples	1	16	Maternal blood_16
+4273428360-1	X278	Maternal blood	Samples	1	15	Maternal blood_15
+8210896057-1	X279	Maternal blood	Samples	1	16	Maternal blood_16
+4714709392-1	X28	Maternal blood	Samples	1	15	Maternal blood_15
+4239527003-1	X280	Maternal blood	Samples	1	16	Maternal blood_16
+7828355332-1	X281	Maternal blood	Samples	2	15	Maternal blood_15
+9047965788-1	X282	Maternal blood	Samples	2	16	Maternal blood_16
+7462022741-1	X283	Maternal blood	Samples	2	15	Maternal blood_15
+2317490066-1	X284	Maternal blood	Samples	2	16	Maternal blood_16
+4312197069-1	X285	Maternal blood	Samples	2	15	Maternal blood_15
+7634811716-1	X286	Maternal blood	Samples	1	16	Maternal blood_16
+7512377047-1	X287	Maternal blood	Samples	1	16	Maternal blood_16
+8960107587-1	X288	Maternal blood	Samples	2	15	Maternal blood_15
+4761226207-1	X289	Maternal blood	Samples	1	16	Maternal blood_16
+5442029785-1	X29	Maternal blood	Samples	2	15	Maternal blood_15
+2201599335-1	X290	Maternal blood	Samples	2	16	Maternal blood_16
+9428003770-1	X291	Maternal blood	Samples	2	15	Maternal blood_15
+8133937766-1	X292	Maternal blood	Samples	1	16	Maternal blood_16
+6502698285-1	X294	Maternal blood	Samples	2	15	Maternal blood_15
+4648530862-1	X296	Maternal blood	Samples	2	15	Maternal blood_15
+5674698602-1	X297	Maternal blood	Samples	1	15	Maternal blood_15
+2277594559-1	X298	Maternal blood	Samples	1	16	Maternal blood_16
+2810532312-1	X299	Maternal blood	Samples	1	16	Maternal blood_16
+921930773-1	X3	Maternal blood	Samples	2	15	Maternal blood_15
+3313499150-1	X30	Maternal blood	Samples	1	15	Maternal blood_15
+7461756489-1	X300	Maternal blood	Samples	2	15	Maternal blood_15
+1996007399-1	X302	Maternal blood	Samples	2	15	Maternal blood_15
+9365309667-1	X307	Maternal blood	Samples	2	16	Maternal blood_16
+8961878879-1	X308	Maternal blood	Samples	1	15	Maternal blood_15
+623996909-1	X31	Maternal blood	Samples	2	15	Maternal blood_15
+3769347147-1	X310	Maternal blood	Samples	1	16	Maternal blood_16
+3448772418-1	X311	Maternal blood	Samples	1	16	Maternal blood_16
+1320505603-1	X314	Maternal blood	Samples	1	16	Maternal blood_16
+3961583019-1	X317	Maternal blood	Samples	1	16	Maternal blood_16
+7203744606-1	X318	Maternal blood	Samples	2	16	Maternal blood_16
+6216936361-1	X319	Maternal blood	Samples	2	16	Maternal blood_16
+6112841566-1	X32	Maternal blood	Samples	1	15	Maternal blood_15
+1351295565-1	X320	Maternal blood	Samples	1	13	Maternal blood_13
+7948915440-1	X321	Maternal blood	Samples	2	13	Maternal blood_13
+5520341836-1	X322	Maternal blood	Samples	2	13	Maternal blood_13
+6201009161-1	X323	Maternal blood	Samples	2	13	Maternal blood_13
+527414735-1	X324	Maternal blood	Samples	2	13	Maternal blood_13
+1262476761-1	X325	Maternal blood	Samples	2	13	Maternal blood_13
+5538181115-1	X326	Maternal blood	Samples	2	13	Maternal blood_13
+8515938137-1	X327	Maternal blood	Samples	1	13	Maternal blood_13
+1113576349-1	X328	Maternal blood	Samples	2	13	Maternal blood_13
+5396104136-1	X329	Maternal blood	Samples	2	13	Maternal blood_13
+6837018195-1	X33	Maternal blood	Samples	1	15	Maternal blood_15
+3547782564-1	X330	Maternal blood	Samples	1	13	Maternal blood_13
+118129109-1	X331	Maternal blood	Samples	1	13	Maternal blood_13
+4405364070-1	X332	Maternal blood	Samples	2	13	Maternal blood_13
+1257114355-1	X333	Maternal blood	Samples	2	13	Maternal blood_13
+4460233438-1	X334	Maternal blood	Samples	2	13	Maternal blood_13
+418211817-1	X335	Maternal blood	Samples	2	14	Maternal blood_14
+2982886798-1	X336	Maternal blood	Samples	1	14	Maternal blood_14
+9119998160-1	X337	Maternal blood	Samples	2	14	Maternal blood_14
+3337075581-1	X338	Maternal blood	Samples	1	14	Maternal blood_14
+1829996035-1	X339	Maternal blood	Samples	2	14	Maternal blood_14
+8266618791-1	X34	Maternal blood	Samples	1	15	Maternal blood_15
+1789908680-1	X340	Maternal blood	Samples	1	14	Maternal blood_14
+3995599776-1	X341	Maternal blood	Samples	1	14	Maternal blood_14
+2969050883-1	X342	Maternal blood	Samples	2	14	Maternal blood_14
+9695601858-1	X343	Maternal blood	Samples	1	14	Maternal blood_14
+5395362738-1	X344	Maternal blood	Samples	1	14	Maternal blood_14
+7980856219-1	X345	Maternal blood	Samples	1	14	Maternal blood_14
+166175682-1	X346	Maternal blood	Samples	2	14	Maternal blood_14
+8051544371-1	X347	Maternal blood	Samples	1	14	Maternal blood_14
+3788785931-1	X348	Maternal blood	Samples	1	14	Maternal blood_14
+8460582615-1	X349	Maternal blood	Samples	2	14	Maternal blood_14
+483254855-1	X35	Maternal blood	Samples	2	15	Maternal blood_15
+2758677048-1	X350	Maternal blood	Samples	1	14	Maternal blood_14
+3163786448-1	X351	Maternal blood	Samples	1	14	Maternal blood_14
+3675168251-1	X352	Maternal blood	Samples	1	14	Maternal blood_14
+13207364-1	X353	Maternal blood	Samples	2	14	Maternal blood_14
+6032432958-1	X354	Maternal blood	Samples	2	14	Maternal blood_14
+2140014675-1	X355	Maternal blood	Samples	2	14	Maternal blood_14
+1808611574-1	X356	Maternal blood	Samples	2	14	Maternal blood_14
+1716736839-1	X357	Maternal blood	Samples	2	14	Maternal blood_14
+9773405990-1	X358	Maternal blood	Samples	1	14	Maternal blood_14
+6945588862-1	X359	Maternal blood	Samples	1	14	Maternal blood_14
+30299718-1	X36	Maternal blood	Samples	2	15	Maternal blood_15
+6489238257-1	X360	Maternal blood	Samples	1	14	Maternal blood_14
+4441488908-1	X361	Maternal blood	Samples	2	14	Maternal blood_14
+1075674165-1	X362	Maternal blood	Samples	1	14	Maternal blood_14
+592414504-1	X363	Maternal blood	Samples	1	14	Maternal blood_14
+3979779977-1	X364	Maternal blood	Samples	2	14	Maternal blood_14
+7189581951-1	X365	Maternal blood	Samples	1	14	Maternal blood_14
+4975645400-1	X366	Maternal blood	Samples	2	14	Maternal blood_14
+500287162-1	X367	Maternal blood	Samples	2	14	Maternal blood_14
+5880514115-1	X368	Maternal blood	Samples	1	14	Maternal blood_14
+4335829012-1	X369	Maternal blood	Samples	1	14	Maternal blood_14
+3611818907-1	X37	Maternal blood	Samples	1	15	Maternal blood_15
+6976556157-1	X370	Maternal blood	Samples	2	14	Maternal blood_14
+6818188259-1	X371	Maternal blood	Samples	2	14	Maternal blood_14
+5355964473-1	X372	Maternal blood	Samples	2	14	Maternal blood_14
+2847366003-1	X373	Maternal blood	Samples	2	14	Maternal blood_14
+4671195468-1	X374	Maternal blood	Samples	2	14	Maternal blood_14
+1985668806-1	X375	Maternal blood	Samples	1	14	Maternal blood_14
+3390047365-1	X376	Maternal blood	Samples	1	14	Maternal blood_14
+5231291989-1	X377	Maternal blood	Samples	2	14	Maternal blood_14
+4449355287-1	X378	Maternal blood	Samples	2	14	Maternal blood_14
+7987840579-1	X379	Maternal blood	Samples	1	14	Maternal blood_14
+5189954347-1	X38	Maternal blood	Samples	1	15	Maternal blood_15
+4479407521-1	X380	Maternal blood	Samples	2	14	Maternal blood_14
+2399533974-1	X381	Maternal blood	Samples	1	14	Maternal blood_14
+7567210932-1	X382	Maternal blood	Samples	2	14	Maternal blood_14
+3934828836-1	X383	Maternal blood	Samples	1	14	Maternal blood_14
+8761739055-1	X384	Maternal blood	Samples	2	14	Maternal blood_14
+4337309056-1	X385	Maternal blood	Samples	1	14	Maternal blood_14
+4603381373-1	X386	Maternal blood	Samples	2	14	Maternal blood_14
+6317445764-1	X387	Maternal blood	Samples	1	14	Maternal blood_14
+9850665656-1	X388	Maternal blood	Samples	2	14	Maternal blood_14
+3791702079-1	X389	Maternal blood	Samples	2	14	Maternal blood_14
+5253156076-1	X39	Maternal blood	Samples	2	15	Maternal blood_15
+8642869479-1	X390	Maternal blood	Samples	2	14	Maternal blood_14
+2424828169-1	X391	Maternal blood	Samples	2	14	Maternal blood_14
+621075704-1	X392	Maternal blood	Samples	1	14	Maternal blood_14
+5033379390-1	X393	Maternal blood	Samples	1	14	Maternal blood_14
+8090061632-1	X394	Maternal blood	Samples	2	14	Maternal blood_14
+33765826-1	X395	Maternal blood	Samples	1	14	Maternal blood_14
+2847767142-1	X396	Maternal blood	Samples	1	14	Maternal blood_14
+8302143913-1	X397	Maternal blood	Samples	2	14	Maternal blood_14
+4192022450-1	X398	Maternal blood	Samples	1	14	Maternal blood_14
+8631479394-1	X399	Maternal blood	Samples	2	14	Maternal blood_14
+7493528056-1	X4	Maternal blood	Samples	2	15	Maternal blood_15
+6349666931-1	X40	Maternal blood	Samples	1	15	Maternal blood_15
+9708128608-1	X400	Maternal blood	Samples	2	14	Maternal blood_14
+2556940462-1	X401	Maternal blood	Samples	2	14	Maternal blood_14
+3128541807-1	X402	Maternal blood	Samples	1	14	Maternal blood_14
+4640628571-1	X403	Maternal blood	Samples	2	14	Maternal blood_14
+6871706404-1	X404	Maternal blood	Samples	1	14	Maternal blood_14
+741202552-1	X405	Maternal blood	Samples	2	14	Maternal blood_14
+9313267757-1	X406	Maternal blood	Samples	2	14	Maternal blood_14
+455176187-1	X407	Maternal blood	Samples	1	14	Maternal blood_14
+7346785803-1	X408	Maternal blood	Samples	1	14	Maternal blood_14
+394852436-1	X409	Maternal blood	Samples	1	14	Maternal blood_14
+4693394575-1	X41	Maternal blood	Samples	2	15	Maternal blood_15
+7699483096-1	X410	Maternal blood	Samples	2	14	Maternal blood_14
+1948312293-1	X411	Maternal blood	Samples	1	14	Maternal blood_14
+9801103901-1	X412	Maternal blood	Samples	1	14	Maternal blood_14
+2166129035-1	X413	Maternal blood	Samples	1	14	Maternal blood_14
+5257472738-1	X414	Maternal blood	Samples	1	14	Maternal blood_14
+2234131774-1	X415	Maternal blood	Samples	2	14	Maternal blood_14
+2635523971-1	X416	Maternal blood	Samples	1	14	Maternal blood_14
+9052354935-1	X417	Maternal blood	Samples	2	14	Maternal blood_14
+4394357709-1	X418	Maternal blood	Samples	1	14	Maternal blood_14
+2227024176-1	X419	Maternal blood	Samples	2	14	Maternal blood_14
+991860479-1	X42	Maternal blood	Samples	2	15	Maternal blood_15
+5085949425-1	X420	Maternal blood	Samples	2	14	Maternal blood_14
+4866625529-1	X421	Maternal blood	Samples	2	14	Maternal blood_14
+3948914047-1	X422	Maternal blood	Samples	1	14	Maternal blood_14
+6482157086-1	X423	Maternal blood	Samples	1	14	Maternal blood_14
+4715744748-1	X424	Maternal blood	Samples	1	14	Maternal blood_14
+9158119582-1	X425	Maternal blood	Samples	1	14	Maternal blood_14
+969623919-1	X426	Maternal blood	Samples	1	14	Maternal blood_14
+5182853106-1	X427	Maternal blood	Samples	1	14	Maternal blood_14
+4725316350-1	X428	Maternal blood	Samples	1	14	Maternal blood_14
+8870219345-1	X429	Maternal blood	Samples	1	14	Maternal blood_14
+6937452665-1	X43	Maternal blood	Samples	1	15	Maternal blood_15
+4598070939-1	X430	Maternal blood	Samples	1	14	Maternal blood_14
+6373406893-1	X431	Maternal blood	Samples	2	14	Maternal blood_14
+1475143032-1	X432	Maternal blood	Samples	2	14	Maternal blood_14
+6904991332-1	X433	Maternal blood	Samples	2	14	Maternal blood_14
+7251256800-1	X434	Maternal blood	Samples	2	14	Maternal blood_14
+4223700530-1	X435	Maternal blood	Samples	2	14	Maternal blood_14
+1004904974-2	X436	Maternal blood	Samples	1	14	Maternal blood_14
+5787708878-1	X437	Maternal blood	Samples	1	14	Maternal blood_14
+950477184-1	X438	Maternal blood	Samples	2	14	Maternal blood_14
+4859718915-1	X439	Maternal blood	Samples	1	14	Maternal blood_14
+2582335934-1	X44	Maternal blood	Samples	1	15	Maternal blood_15
+209704032-1	X440	Maternal blood	Samples	2	14	Maternal blood_14
+7392959234-1	X441	Maternal blood	Samples	2	14	Maternal blood_14
+571105205-1	X442	Maternal blood	Samples	1	14	Maternal blood_14
+3751588437-1	X443	Maternal blood	Samples	1	14	Maternal blood_14
+9645178820-1	X444	Maternal blood	Samples	2	14	Maternal blood_14
+4560042035-1	X445	Maternal blood	Samples	1	14	Maternal blood_14
+3421286602-1	X446	Maternal blood	Samples	1	14	Maternal blood_14
+8649128693-1	X447	Maternal blood	Samples	2	14	Maternal blood_14
+7650492055-1	X448	Maternal blood	Samples	1	14	Maternal blood_14
+8656527101-1	X449	Maternal blood	Samples	2	14	Maternal blood_14
+1585557126-1	X45	Maternal blood	Samples	2	15	Maternal blood_15
+9757884316-1	X450	Maternal blood	Samples	2	14	Maternal blood_14
+109893227-1	X451	Maternal blood	Samples	2	14	Maternal blood_14
+514596854-1	X452	Maternal blood	Samples	2	14	Maternal blood_14
+3372804193-1	X453	Maternal blood	Samples	2	14	Maternal blood_14
+5121423045-1	X454	Maternal blood	Samples	1	14	Maternal blood_14
+9839476905-1	X455	Maternal blood	Samples	2	14	Maternal blood_14
+3697489250-1	X456	Maternal blood	Samples	1	14	Maternal blood_14
+2832728499-1	X457	Maternal blood	Samples	2	14	Maternal blood_14
+252747298-1	X458	Maternal blood	Samples	1	14	Maternal blood_14
+3022899191-1	X459	Maternal blood	Samples	1	14	Maternal blood_14
+3104792117-1	X46	Maternal blood	Samples	2	15	Maternal blood_15
+7433874461-1	X460	Maternal blood	Samples	2	14	Maternal blood_14
+3701061575-1	X461	Maternal blood	Samples	1	14	Maternal blood_14
+5673767782-1	X462	Maternal blood	Samples	1	14	Maternal blood_14
+9921933-1	X463	Maternal blood	Samples	1	14	Maternal blood_14
+1142124105-1	X464	Maternal blood	Samples	2	14	Maternal blood_14
+2830601545-1	X465	Maternal blood	Samples	1	14	Maternal blood_14
+6717953726-1	X466	Maternal blood	Samples	1	14	Maternal blood_14
+7061602001-1	X467	Maternal blood	Samples	2	14	Maternal blood_14
+29186313-1	X468	Maternal blood	Samples	2	14	Maternal blood_14
+4843705415-1	X469	Maternal blood	Samples	1	14	Maternal blood_14
+1168450476-1	X47	Maternal blood	Samples	1	15	Maternal blood_15
+7830561007-1	X470	Maternal blood	Samples	2	14	Maternal blood_14
+8832399011-1	X471	Maternal blood	Samples	1	14	Maternal blood_14
+7473449403-1	X472	Maternal blood	Samples	2	14	Maternal blood_14
+8329896255-1	X473	Maternal blood	Samples	2	14	Maternal blood_14
+6568183012-1	X474	Maternal blood	Samples	2	14	Maternal blood_14
+1574663171-1	X475	Maternal blood	Samples	2	14	Maternal blood_14
+5004315197-1	X476	Maternal blood	Samples	2	14	Maternal blood_14
+1231077886-1	X477	Maternal blood	Samples	1	14	Maternal blood_14
+4314194644-1	X478	Maternal blood	Samples	2	14	Maternal blood_14
+660270820-1	X479	Maternal blood	Samples	2	14	Maternal blood_14
+3065985391-1	X48	Maternal blood	Samples	1	15	Maternal blood_15
+5877160120-1	X480	Maternal blood	Samples	1	14	Maternal blood_14
+1949249204-1	X481	Maternal blood	Samples	2	14	Maternal blood_14
+4257954691-1	X482	Maternal blood	Samples	2	14	Maternal blood_14
+3897926562-1	X483	Maternal blood	Samples	2	14	Maternal blood_14
+3280765718-2	X484	Maternal blood	Samples	1	14	Maternal blood_14
+8652269811-1	X485	Maternal blood	Samples	1	14	Maternal blood_14
+3941380634-1	X486	Maternal blood	Samples	1	14	Maternal blood_14
+5151989816-1	X487	Maternal blood	Samples	2	14	Maternal blood_14
+9242925466-1	X488	Maternal blood	Samples	1	14	Maternal blood_14
+8734087310-1	X489	Maternal blood	Samples	2	14	Maternal blood_14
+4804914153-1	X49	Maternal blood	Samples	1	15	Maternal blood_15
+8043676343-1	X490	Maternal blood	Samples	2	15	Maternal blood_15
+7144400117-1	X491	Maternal blood	Samples	2	14	Maternal blood_14
+8265269439-1	X492	Maternal blood	Samples	2	14	Maternal blood_14
+8066112747-1	X493	Maternal blood	Samples	1	14	Maternal blood_14
+1028728704-1	X494	Maternal blood	Samples	2	14	Maternal blood_14
+5769004074-1	X495	Maternal blood	Samples	1	14	Maternal blood_14
+2441677559-1	X496	Maternal blood	Samples	2	14	Maternal blood_14
+7163504151-1	X497	Maternal blood	Samples	2	14	Maternal blood_14
+8459657732-1	X498	Maternal blood	Samples	1	14	Maternal blood_14
+7757969614-1	X499	Maternal blood	Samples	1	14	Maternal blood_14
+5108790171-1	X5	Maternal blood	Samples	1	15	Maternal blood_15
+4490039020-1	X50	Maternal blood	Samples	1	15	Maternal blood_15
+1717477735-1	X500	Maternal blood	Samples	2	14	Maternal blood_14
+7449336195-1	X501	Maternal blood	Samples	1	14	Maternal blood_14
+370357996-1	X502	Maternal blood	Samples	2	15	Maternal blood_15
+490745404-1	X503	Maternal blood	Samples	2	14	Maternal blood_14
+4564262393-1	X504	Maternal blood	Samples	2	14	Maternal blood_14
+1190552963-1	X505	Maternal blood	Samples	1	15	Maternal blood_15
+7805859738-1	X506	Maternal blood	Samples	2	15	Maternal blood_15
+9427117784-1	X507	Maternal blood	Samples	2	15	Maternal blood_15
+629512197-1	X508	Maternal blood	Samples	1	14	Maternal blood_14
+7644610017-1	X509	Maternal blood	Samples	2	15	Maternal blood_15
+6174572606-1	X51	Maternal blood	Samples	2	15	Maternal blood_15
+9243727074-1	X510	Maternal blood	Samples	1	15	Maternal blood_15
+7613158332-1	X511	Maternal blood	Samples	1	15	Maternal blood_15
+1722709379-1	X512	Maternal blood	Samples	1	15	Maternal blood_15
+6717422891-1	X513	Maternal blood	Samples	2	15	Maternal blood_15
+4176494550-1	X514	Maternal blood	Samples	2	15	Maternal blood_15
+9986181501-1	X515	Maternal blood	Samples	1	15	Maternal blood_15
+1351295565-1	X516	Cord blood	Samples	1	13	Cord blood_13
+7948915440-1	X517	Cord blood	Samples	1	13	Cord blood_13
+6201009161-1	X518	Cord blood	Samples	2	14	Cord blood_14
+5520341836-1	X519	Cord blood	Samples	1	14	Cord blood_14
+9761923844-1	X52	Maternal blood	Samples	2	15	Maternal blood_15
+527414735-1	X520	Cord blood	Samples	1	14	Cord blood_14
+5538181115-1	X521	Cord blood	Samples	1	14	Cord blood_14
+1262476761-1	X522	Cord blood	Samples	2	14	Cord blood_14
+8515938137-1	X523	Cord blood	Samples	2	14	Cord blood_14
+5396104136-1	X524	Cord blood	Samples	2	14	Cord blood_14
+1113576349-1	X525	Cord blood	Samples	1	14	Cord blood_14
+118129109-1	X526	Cord blood	Samples	1	14	Cord blood_14
+3547782564-1	X527	Cord blood	Samples	2	14	Cord blood_14
+1257114355-1	X528	Cord blood	Samples	1	14	Cord blood_14
+4405364070-1	X529	Cord blood	Samples	1	14	Cord blood_14
+1939703925-1	X53	Maternal blood	Samples	1	15	Maternal blood_15
+4460233438-1	X530	Cord blood	Samples	1	14	Cord blood_14
+418211817-1	X531	Cord blood	Samples	1	14	Cord blood_14
+2982886798-1	X532	Cord blood	Samples	2	14	Cord blood_14
+9119998160-1	X533	Cord blood	Samples	1	14	Cord blood_14
+3337075581-1	X534	Cord blood	Samples	1	14	Cord blood_14
+1829996035-1	X535	Cord blood	Samples	2	14	Cord blood_14
+1789908680-1	X536	Cord blood	Samples	1	14	Cord blood_14
+9695601858-1	X537	Cord blood	Samples	2	14	Cord blood_14
+2969050883-1	X538	Cord blood	Samples	2	14	Cord blood_14
+3995599776-1	X539	Cord blood	Samples	1	14	Cord blood_14
+8780232718-1	X54	Maternal blood	Samples	2	15	Maternal blood_15
+5395362738-1	X540	Cord blood	Samples	2	14	Cord blood_14
+7980856219-1	X541	Cord blood	Samples	1	14	Cord blood_14
+166175682-1	X542	Cord blood	Samples	1	14	Cord blood_14
+3788785931-1	X543	Cord blood	Samples	2	14	Cord blood_14
+8051544371-1	X544	Cord blood	Samples	2	14	Cord blood_14
+8460582615-1	X545	Cord blood	Samples	1	14	Cord blood_14
+2758677048-1	X546	Cord blood	Samples	2	14	Cord blood_14
+3163786448-1	X547	Cord blood	Samples	1	14	Cord blood_14
+13207364-1	X548	Cord blood	Samples	2	15	Cord blood_15
+6032432958-1	X549	Cord blood	Samples	1	15	Cord blood_15
+8891527698-1	X55	Maternal blood	Samples	2	15	Maternal blood_15
+1716736839-1	X550	Cord blood	Samples	2	15	Cord blood_15
+6945588862-1	X551	Cord blood	Samples	2	15	Cord blood_15
+4671195468-1	X552	Cord blood	Samples	2	15	Cord blood_15
+2140014675-1	X553	Cord blood	Samples	2	15	Cord blood_15
+1985668806-1	X554	Cord blood	Samples	2	15	Cord blood_15
+3675168251-1	X555	Cord blood	Samples	2	15	Cord blood_15
+3979779977-1	X556	Cord blood	Samples	2	15	Cord blood_15
+6976556157-1	X557	Cord blood	Samples	1	15	Cord blood_15
+7189581951-1	X558	Cord blood	Samples	2	15	Cord blood_15
+3390047365-1	X559	Cord blood	Samples	1	15	Cord blood_15
+3075034424-1	X56	Maternal blood	Samples	1	15	Maternal blood_15
+4441488908-1	X560	Cord blood	Samples	2	15	Cord blood_15
+5355964473-1	X561	Cord blood	Samples	1	15	Cord blood_15
+7567210932-1	X562	Cord blood	Samples	1	15	Cord blood_15
+500287162-1	X563	Cord blood	Samples	2	15	Cord blood_15
+4479407521-1	X564	Cord blood	Samples	1	15	Cord blood_15
+4449355287-1	X565	Cord blood	Samples	1	15	Cord blood_15
+4975645400-1	X566	Cord blood	Samples	1	15	Cord blood_15
+4335829012-1	X567	Cord blood	Samples	1	15	Cord blood_15
+592414504-1	X568	Cord blood	Samples	2	15	Cord blood_15
+2847366003-1	X569	Cord blood	Samples	2	15	Cord blood_15
+7783371469-1	X57	Maternal blood	Samples	1	15	Maternal blood_15
+5880514115-1	X570	Cord blood	Samples	1	15	Cord blood_15
+1808611574-1	X571	Cord blood	Samples	2	15	Cord blood_15
+1075674165-1	X572	Cord blood	Samples	1	15	Cord blood_15
+7987840579-1	X573	Cord blood	Samples	2	15	Cord blood_15
+6818188259-1	X574	Cord blood	Samples	1	15	Cord blood_15
+5231291989-1	X575	Cord blood	Samples	1	15	Cord blood_15
+4603381373-1	X576	Cord blood	Samples	1	15	Cord blood_15
+2399533974-1	X577	Cord blood	Samples	1	15	Cord blood_15
+8761739055-1	X578	Cord blood	Samples	1	15	Cord blood_15
+9773405990-1	X579	Cord blood	Samples	2	15	Cord blood_15
+1872656118-1	X58	Maternal blood	Samples	2	15	Maternal blood_15
+9850665656-1	X580	Cord blood	Samples	1	15	Cord blood_15
+6317445764-1	X581	Cord blood	Samples	1	15	Cord blood_15
+33765826-1	X582	Cord blood	Samples	2	15	Cord blood_15
+7699483096-1	X583	Cord blood	Samples	2	15	Cord blood_15
+2424828169-1	X584	Cord blood	Samples	1	15	Cord blood_15
+8642869479-1	X585	Cord blood	Samples	1	15	Cord blood_15
+6489238257-1	X586	Cord blood	Samples	1	15	Cord blood_15
+5033379390-1	X587	Cord blood	Samples	2	15	Cord blood_15
+3934828836-1	X588	Cord blood	Samples	2	15	Cord blood_15
+6871706404-1	X589	Cord blood	Samples	1	15	Cord blood_15
+8533899364-1	X59	Maternal blood	Samples	2	15	Maternal blood_15
+4337309056-1	X590	Cord blood	Samples	2	15	Cord blood_15
+3128541807-1	X591	Cord blood	Samples	2	15	Cord blood_15
+9708128608-1	X592	Cord blood	Samples	1	15	Cord blood_15
+8631479394-1	X593	Cord blood	Samples	1	15	Cord blood_15
+621075704-1	X594	Cord blood	Samples	1	15	Cord blood_15
+741202552-1	X595	Cord blood	Samples	2	15	Cord blood_15
+3791702079-1	X596	Cord blood	Samples	2	15	Cord blood_15
+8090061632-1	X597	Cord blood	Samples	1	15	Cord blood_15
+9645178820-1	X598	Cord blood	Samples	2	15	Cord blood_15
+4192022450-1	X599	Cord blood	Samples	1	15	Cord blood_15
+5709134789-1	X6	Maternal blood	Samples	2	15	Maternal blood_15
+7244096648-1	X60	Maternal blood	Samples	2	15	Maternal blood_15
+455176187-1	X600	Cord blood	Samples	2	15	Cord blood_15
+9801103901-1	X601	Cord blood	Samples	1	15	Cord blood_15
+2166129035-1	X602	Cord blood	Samples	2	15	Cord blood_15
+2635523971-1	X603	Cord blood	Samples	1	15	Cord blood_15
+5257472738-1	X604	Cord blood	Samples	2	15	Cord blood_15
+2556940462-1	X605	Cord blood	Samples	1	15	Cord blood_15
+5085949425-1	X606	Cord blood	Samples	1	15	Cord blood_15
+9158119582-1	X607	Cord blood	Samples	2	15	Cord blood_15
+4866625529-1	X608	Cord blood	Samples	2	15	Cord blood_15
+4394357709-1	X609	Cord blood	Samples	1	15	Cord blood_15
+9552991702-1	X61	Maternal blood	Samples	1	15	Maternal blood_15
+1004904974-2	X610	Cord blood	Samples	2	15	Cord blood_15
+7346785803-1	X611	Cord blood	Samples	1	15	Cord blood_15
+1948312293-1	X612	Cord blood	Samples	2	15	Cord blood_15
+9052354935-1	X613	Cord blood	Samples	2	15	Cord blood_15
+9313267757-1	X614	Cord blood	Samples	1	15	Cord blood_15
+8302143913-1	X615	Cord blood	Samples	2	15	Cord blood_15
+2847767142-1	X616	Cord blood	Samples	2	15	Cord blood_15
+4640628571-1	X617	Cord blood	Samples	2	15	Cord blood_15
+969623919-1	X618	Cord blood	Samples	2	15	Cord blood_15
+394852436-1	X619	Cord blood	Samples	1	15	Cord blood_15
+420924527-2	X62	Maternal blood	Samples	1	15	Maternal blood_15
+2227024176-1	X620	Cord blood	Samples	1	15	Cord blood_15
+5182853106-1	X621	Cord blood	Samples	2	15	Cord blood_15
+5121423045-1	X622	Cord blood	Samples	2	15	Cord blood_15
+4725316350-1	X623	Cord blood	Samples	2	15	Cord blood_15
+6482157086-1	X624	Cord blood	Samples	1	15	Cord blood_15
+2234131774-1	X625	Cord blood	Samples	1	15	Cord blood_15
+4859718915-1	X626	Cord blood	Samples	1	15	Cord blood_15
+8870219345-1	X627	Cord blood	Samples	1	15	Cord blood_15
+7650492055-1	X628	Cord blood	Samples	1	15	Cord blood_15
+1475143032-1	X629	Cord blood	Samples	1	15	Cord blood_15
+2307780157-1	X63	Maternal blood	Samples	2	15	Maternal blood_15
+5673767782-1	X630	Cord blood	Samples	2	15	Cord blood_15
+3948914047-1	X631	Cord blood	Samples	2	15	Cord blood_15
+4715744748-1	X632	Cord blood	Samples	2	15	Cord blood_15
+7392959234-1	X633	Cord blood	Samples	1	15	Cord blood_15
+3372804193-1	X634	Cord blood	Samples	2	15	Cord blood_15
+4598070939-1	X635	Cord blood	Samples	2	15	Cord blood_15
+6904991332-1	X636	Cord blood	Samples	1	15	Cord blood_15
+6373406893-1	X637	Cord blood	Samples	1	15	Cord blood_15
+8656527101-1	X638	Cord blood	Samples	2	15	Cord blood_15
+7251256800-1	X639	Cord blood	Samples	2	15	Cord blood_15
+294550000-1	X64	Maternal blood	Samples	2	15	Maternal blood_15
+950477184-1	X640	Cord blood	Samples	2	15	Cord blood_15
+4223700530-1	X641	Cord blood	Samples	1	15	Cord blood_15
+3697489250-1	X642	Cord blood	Samples	1	15	Cord blood_15
+3421286602-1	X643	Cord blood	Samples	2	15	Cord blood_15
+109893227-1	X644	Cord blood	Samples	2	15	Cord blood_15
+7433874461-1	X645	Cord blood	Samples	2	15	Cord blood_15
+252747298-1	X646	Cord blood	Samples	1	15	Cord blood_15
+571105205-1	X647	Cord blood	Samples	1	15	Cord blood_15
+9839476905-1	X648	Cord blood	Samples	2	15	Cord blood_15
+8649128693-1	X649	Cord blood	Samples	2	15	Cord blood_15
+418932279-1	X65	Maternal blood	Samples	1	15	Maternal blood_15
+514596854-1	X650	Cord blood	Samples	2	15	Cord blood_15
+5787708878-1	X651	Cord blood	Samples	2	15	Cord blood_15
+3751588437-1	X652	Cord blood	Samples	1	15	Cord blood_15
+4560042035-1	X653	Cord blood	Samples	1	15	Cord blood_15
+209704032-1	X654	Cord blood	Samples	1	15	Cord blood_15
+9757884316-1	X655	Cord blood	Samples	1	15	Cord blood_15
+2832728499-1	X656	Cord blood	Samples	1	15	Cord blood_15
+9242925466-1	X657	Cord blood	Samples	1	15	Cord blood_15
+3022899191-1	X658	Cord blood	Samples	1	15	Cord blood_15
+1231077886-1	X659	Cord blood	Samples	1	15	Cord blood_15
+5263088981-1	X66	Maternal blood	Samples	1	15	Maternal blood_15
+1142124105-1	X660	Cord blood	Samples	2	15	Cord blood_15
+5877160120-1	X661	Cord blood	Samples	2	15	Cord blood_15
+7061602001-1	X662	Cord blood	Samples	2	15	Cord blood_15
+8329896255-1	X663	Cord blood	Samples	1	15	Cord blood_15
+8832399011-1	X664	Cord blood	Samples	2	15	Cord blood_15
+7473449403-1	X665	Cord blood	Samples	2	15	Cord blood_15
+29186313-1	X666	Cord blood	Samples	2	15	Cord blood_15
+4257954691-1	X667	Cord blood	Samples	1	15	Cord blood_15
+2441677559-1	X668	Cord blood	Samples	2	15	Cord blood_15
+3701061575-1	X669	Cord blood	Samples	2	15	Cord blood_15
+3609107944-1	X67	Maternal blood	Samples	2	15	Maternal blood_15
+2830601545-1	X670	Cord blood	Samples	1	15	Cord blood_15
+8734087310-1	X671	Cord blood	Samples	2	15	Cord blood_15
+3897926562-1	X672	Cord blood	Samples	1	15	Cord blood_15
+6717953726-1	X673	Cord blood	Samples	2	15	Cord blood_15
+6568183012-1	X674	Cord blood	Samples	2	15	Cord blood_15
+3280765718-2	X675	Cord blood	Samples	2	15	Cord blood_15
+5151989816-1	X676	Cord blood	Samples	2	15	Cord blood_15
+7830561007-1	X677	Cord blood	Samples	2	15	Cord blood_15
+7163504151-1	X678	Cord blood	Samples	2	15	Cord blood_15
+4843705415-1	X679	Cord blood	Samples	1	15	Cord blood_15
+9242759085-1	X68	Maternal blood	Samples	1	15	Maternal blood_15
+5004315197-1	X680	Cord blood	Samples	1	15	Cord blood_15
+4314194644-1	X681	Cord blood	Samples	2	15	Cord blood_15
+660270820-1	X682	Cord blood	Samples	2	15	Cord blood_15
+8652269811-1	X683	Cord blood	Samples	2	15	Cord blood_15
+5769004074-1	X684	Cord blood	Samples	2	15	Cord blood_15
+1574663171-1	X685	Cord blood	Samples	1	15	Cord blood_15
+1949249204-1	X686	Cord blood	Samples	1	15	Cord blood_15
+3941380634-1	X687	Cord blood	Samples	2	15	Cord blood_15
+7757969614-1	X688	Cord blood	Samples	1	15	Cord blood_15
+9921933-1	X689	Cord blood	Samples	1	15	Cord blood_15
+4618668772-1	X69	Maternal blood	Samples	1	15	Maternal blood_15
+4564262393-1	X690	Cord blood	Samples	2	15	Cord blood_15
+7144400117-1	X691	Cord blood	Samples	1	15	Cord blood_15
+490745404-1	X692	Cord blood	Samples	2	15	Cord blood_15
+7644610017-1	X693	Cord blood	Samples	2	15	Cord blood_15
+8459657732-1	X694	Cord blood	Samples	2	15	Cord blood_15
+8043676343-1	X695	Cord blood	Samples	2	15	Cord blood_15
+8265269439-1	X696	Cord blood	Samples	1	15	Cord blood_15
+1190552963-1	X697	Cord blood	Samples	2	15	Cord blood_15
+5412358713-1	X698	Cord blood	Samples	2	15	Cord blood_15
+2437500447-1	X699	Cord blood	Samples	2	15	Cord blood_15
+4372377202-1	X7	Maternal blood	Samples	1	15	Maternal blood_15
+944477068-1	X70	Maternal blood	Samples	2	15	Maternal blood_15
+4598554957-1	X700	Cord blood	Samples	2	15	Cord blood_15
+8458404507-1	X701	Cord blood	Samples	2	15	Cord blood_15
+7876247296-1	X702	Cord blood	Samples	1	15	Cord blood_15
+5528381814-1	X703	Cord blood	Samples	2	15	Cord blood_15
+9727562968-1	X704	Cord blood	Samples	2	15	Cord blood_15
+4612432650-1	X705	Cord blood	Samples	2	15	Cord blood_15
+9562974241-1	X706	Cord blood	Samples	2	15	Cord blood_15
+8613482713-1	X707	Cord blood	Samples	2	15	Cord blood_15
+9798387810-1	X708	Cord blood	Samples	2	15	Cord blood_15
+1252173735-1	X709	Cord blood	Samples	2	15	Cord blood_15
+1115810256-1	X71	Maternal blood	Samples	2	15	Maternal blood_15
+4714709392-1	X710	Cord blood	Samples	1	15	Cord blood_15
+8735198932-1	X711	Cord blood	Samples	1	15	Cord blood_15
+30299718-1	X712	Cord blood	Samples	2	15	Cord blood_15
+8035402664-1	X713	Cord blood	Samples	1	15	Cord blood_15
+3313499150-1	X714	Cord blood	Samples	1	15	Cord blood_15
+4083759628-1	X715	Cord blood	Samples	1	15	Cord blood_15
+4176494550-1	X716	Cord blood	Samples	1	15	Cord blood_15
+7449336195-1	X717	Cord blood	Samples	1	15	Cord blood_15
+629512197-1	X718	Cord blood	Samples	1	15	Cord blood_15
+9986181501-1	X719	Cord blood	Samples	2	15	Cord blood_15
+6219721607-1	X72	Maternal blood	Samples	1	15	Maternal blood_15
+8066112747-1	X720	Cord blood	Samples	1	15	Cord blood_15
+1028728704-1	X721	Cord blood	Samples	1	15	Cord blood_15
+1717477735-1	X722	Cord blood	Samples	2	15	Cord blood_15
+7805859738-1	X723	Cord blood	Samples	1	15	Cord blood_15
+370357996-1	X724	Cord blood	Samples	2	15	Cord blood_15
+921930773-1	X725	Cord blood	Samples	1	15	Cord blood_15
+9427117784-1	X726	Cord blood	Samples	2	15	Cord blood_15
+6717422891-1	X727	Cord blood	Samples	2	15	Cord blood_15
+1722709379-1	X728	Cord blood	Samples	1	15	Cord blood_15
+9243727074-1	X729	Cord blood	Samples	1	15	Cord blood_15
+7608484671-1	X73	Maternal blood	Samples	1	15	Maternal blood_15
+7613158332-1	X730	Cord blood	Samples	1	15	Cord blood_15
+4671269098-1	X731	Cord blood	Samples	1	15	Cord blood_15
+7493528056-1	X732	Cord blood	Samples	2	15	Cord blood_15
+5108790171-1	X733	Cord blood	Samples	2	15	Cord blood_15
+9531628247-1	X734	Cord blood	Samples	2	15	Cord blood_15
+3822663828-1	X735	Cord blood	Samples	2	15	Cord blood_15
+1729806098-1	X736	Cord blood	Samples	2	15	Cord blood_15
+4372377202-1	X737	Cord blood	Samples	1	15	Cord blood_15
+663411789-1	X738	Cord blood	Samples	1	15	Cord blood_15
+5536546663-1	X739	Cord blood	Samples	2	15	Cord blood_15
+9646152430-1	X74	Maternal blood	Samples	2	15	Maternal blood_15
+5709134789-1	X740	Cord blood	Samples	1	15	Cord blood_15
+5442029785-1	X741	Cord blood	Samples	2	15	Cord blood_15
+8266618791-1	X742	Cord blood	Samples	1	15	Cord blood_15
+4804914153-1	X743	Cord blood	Samples	2	15	Cord blood_15
+3611818907-1	X744	Cord blood	Samples	2	15	Cord blood_15
+2788648797-1	X745	Cord blood	Samples	2	15	Cord blood_15
+7862643137-1	X746	Cord blood	Samples	1	15	Cord blood_15
+1939703925-1	X747	Cord blood	Samples	2	15	Cord blood_15
+6112841566-1	X748	Cord blood	Samples	2	15	Cord blood_15
+623996909-1	X749	Cord blood	Samples	1	15	Cord blood_15
+6781199386-1	X75	Maternal blood	Samples	1	15	Maternal blood_15
+8317751287-1	X750	Cord blood	Samples	2	15	Cord blood_15
+2477145713-1	X751	Cord blood	Samples	2	15	Cord blood_15
+2582335934-1	X752	Cord blood	Samples	1	15	Cord blood_15
+5467100532-1	X753	Cord blood	Samples	1	15	Cord blood_15
+6174572606-1	X754	Cord blood	Samples	2	15	Cord blood_15
+1622275687-1	X755	Cord blood	Samples	2	15	Cord blood_15
+483254855-1	X756	Cord blood	Samples	2	15	Cord blood_15
+1168450476-1	X757	Cord blood	Samples	2	15	Cord blood_15
+991860479-1	X758	Cord blood	Samples	2	15	Cord blood_15
+4749802083-1	X759	Cord blood	Samples	1	15	Cord blood_15
+7551643879-1	X76	Maternal blood	Samples	1	15	Maternal blood_15
+4693394575-1	X760	Cord blood	Samples	1	15	Cord blood_15
+1872656118-1	X761	Cord blood	Samples	1	15	Cord blood_15
+6837018195-1	X762	Cord blood	Samples	2	15	Cord blood_15
+1585557126-1	X763	Cord blood	Samples	2	15	Cord blood_15
+6937452665-1	X764	Cord blood	Samples	2	15	Cord blood_15
+3065985391-1	X765	Cord blood	Samples	1	15	Cord blood_15
+5189954347-1	X766	Cord blood	Samples	1	15	Cord blood_15
+9761923844-1	X767	Cord blood	Samples	1	15	Cord blood_15
+6349666931-1	X768	Cord blood	Samples	1	15	Cord blood_15
+5253156076-1	X769	Cord blood	Samples	2	15	Cord blood_15
+3949318869-1	X77	Maternal blood	Samples	1	15	Maternal blood_15
+9552991702-1	X770	Cord blood	Samples	1	15	Cord blood_15
+8780232718-1	X771	Cord blood	Samples	2	15	Cord blood_15
+420924527-2	X772	Cord blood	Samples	2	15	Cord blood_15
+294550000-1	X773	Cord blood	Samples	2	15	Cord blood_15
+7783371469-1	X774	Cord blood	Samples	2	15	Cord blood_15
+8891527698-1	X775	Cord blood	Samples	1	15	Cord blood_15
+8533899364-1	X776	Cord blood	Samples	1	15	Cord blood_15
+7244096648-1	X777	Cord blood	Samples	1	15	Cord blood_15
+4490039020-1	X778	Cord blood	Samples	2	15	Cord blood_15
+9242759085-1	X779	Cord blood	Samples	1	15	Cord blood_15
+8895634975-1	X78	Maternal blood	Samples	2	15	Maternal blood_15
+5263088981-1	X780	Cord blood	Samples	2	15	Cord blood_15
+3104792117-1	X781	Cord blood	Samples	1	15	Cord blood_15
+3075034424-1	X782	Cord blood	Samples	1	15	Cord blood_15
+3609107944-1	X783	Cord blood	Samples	1	15	Cord blood_15
+2307780157-1	X784	Cord blood	Samples	2	15	Cord blood_15
+1115810256-1	X785	Cord blood	Samples	1	15	Cord blood_15
+9151849941-1	X786	Cord blood	Samples	1	15	Cord blood_15
+4618668772-1	X787	Cord blood	Samples	1	15	Cord blood_15
+418932279-1	X788	Cord blood	Samples	1	15	Cord blood_15
+3949318869-1	X789	Cord blood	Samples	2	15	Cord blood_15
+6916635370-1	X79	Maternal blood	Samples	2	15	Maternal blood_15
+6781199386-1	X790	Cord blood	Samples	1	15	Cord blood_15
+2712887550-1	X791	Cord blood	Samples	2	15	Cord blood_15
+7608484671-1	X792	Cord blood	Samples	2	16	Cord blood_16
+944477068-1	X793	Cord blood	Samples	2	16	Cord blood_16
+3740755274-1	X794	Cord blood	Samples	2	16	Cord blood_16
+9646152430-1	X795	Cord blood	Samples	2	16	Cord blood_16
+395292993-1	X796	Cord blood	Samples	1	16	Cord blood_16
+6219721607-1	X797	Cord blood	Samples	2	16	Cord blood_16
+9302592137-1	X798	Cord blood	Samples	1	16	Cord blood_16
+7551643879-1	X799	Cord blood	Samples	2	16	Cord blood_16
+663411789-1	X8	Maternal blood	Samples	2	15	Maternal blood_15
+3740755274-1	X80	Maternal blood	Samples	2	15	Maternal blood_15
+8895634975-1	X800	Cord blood	Samples	1	16	Cord blood_16
+1877165600-1	X801	Cord blood	Samples	2	16	Cord blood_16
+1630566526-1	X802	Cord blood	Samples	2	16	Cord blood_16
+7415093480-1	X803	Cord blood	Samples	1	16	Cord blood_16
+9260815479-2	X804	Cord blood	Samples	2	16	Cord blood_16
+6916635370-1	X805	Cord blood	Samples	2	16	Cord blood_16
+7709758429-1	X806	Cord blood	Samples	1	16	Cord blood_16
+8121291491-1	X807	Cord blood	Samples	2	16	Cord blood_16
+5143030190-1	X808	Cord blood	Samples	1	16	Cord blood_16
+3136241884-1	X809	Cord blood	Samples	2	16	Cord blood_16
+7415093480-1	X81	Maternal blood	Samples	2	15	Maternal blood_15
+9125253562-1	X810	Cord blood	Samples	2	16	Cord blood_16
+1376048681-1	X811	Cord blood	Samples	2	16	Cord blood_16
+2486136216-1	X812	Cord blood	Samples	1	16	Cord blood_16
+564226564-1	X813	Cord blood	Samples	2	16	Cord blood_16
+9554287730-1	X814	Cord blood	Samples	1	16	Cord blood_16
+5854520018-1	X815	Cord blood	Samples	1	16	Cord blood_16
+6287367374-1	X816	Cord blood	Samples	1	16	Cord blood_16
+3593021176-1	X817	Cord blood	Samples	2	16	Cord blood_16
+9979048483-1	X818	Cord blood	Samples	1	16	Cord blood_16
+2117378358-1	X819	Cord blood	Samples	2	16	Cord blood_16
+1630566526-1	X82	Maternal blood	Samples	2	15	Maternal blood_15
+656640255-1	X820	Cord blood	Samples	2	16	Cord blood_16
+1434124373-1	X821	Cord blood	Samples	2	16	Cord blood_16
+3118762594-1	X822	Cord blood	Samples	2	16	Cord blood_16
+5858768129-1	X823	Cord blood	Samples	1	16	Cord blood_16
+4383221023-1	X824	Cord blood	Samples	2	16	Cord blood_16
+3933338077-1	X825	Cord blood	Samples	2	16	Cord blood_16
+1406675326-1	X826	Cord blood	Samples	1	16	Cord blood_16
+5546972735-1	X827	Cord blood	Samples	2	16	Cord blood_16
+6214384192-1	X828	Cord blood	Samples	2	16	Cord blood_16
+1159296217-1	X829	Cord blood	Samples	1	16	Cord blood_16
+395292993-1	X83	Maternal blood	Samples	1	15	Maternal blood_15
+9281450258-1	X830	Cord blood	Samples	2	16	Cord blood_16
+957582272-1	X831	Cord blood	Samples	1	16	Cord blood_16
+8679497083-1	X832	Cord blood	Samples	2	16	Cord blood_16
+8260687137-1	X833	Cord blood	Samples	1	16	Cord blood_16
+1648835037-1	X834	Cord blood	Samples	1	16	Cord blood_16
+4512489645-1	X835	Cord blood	Samples	1	16	Cord blood_16
+5240158757-1	X836	Cord blood	Samples	1	16	Cord blood_16
+5022493612-1	X837	Cord blood	Samples	1	16	Cord blood_16
+9451569099-1	X838	Cord blood	Samples	1	16	Cord blood_16
+2418955374-1	X839	Cord blood	Samples	1	16	Cord blood_16
+5858768129-1	X84	Maternal blood	Samples	1	15	Maternal blood_15
+8481161039-1	X840	Cord blood	Samples	1	16	Cord blood_16
+4989865932-1	X841	Cord blood	Samples	1	16	Cord blood_16
+7901957937-1	X842	Cord blood	Samples	1	16	Cord blood_16
+9432683889-1	X843	Cord blood	Samples	2	16	Cord blood_16
+1797139920-1	X844	Cord blood	Samples	1	16	Cord blood_16
+3594236282-1	X845	Cord blood	Samples	1	16	Cord blood_16
+9078319314-1	X846	Cord blood	Samples	2	16	Cord blood_16
+7722385673-1	X847	Cord blood	Samples	2	16	Cord blood_16
+4335540646-1	X848	Cord blood	Samples	2	16	Cord blood_16
+234795394-1	X849	Cord blood	Samples	2	16	Cord blood_16
+2117378358-1	X85	Maternal blood	Samples	2	15	Maternal blood_15
+5726122104-1	X850	Cord blood	Samples	1	16	Cord blood_16
+3319289131-1	X851	Cord blood	Samples	1	16	Cord blood_16
+3642522307-1	X852	Cord blood	Samples	1	16	Cord blood_16
+2620317536-1	X853	Cord blood	Samples	1	16	Cord blood_16
+305720726-1	X854	Cord blood	Samples	1	16	Cord blood_16
+5174358624-1	X855	Cord blood	Samples	1	16	Cord blood_16
+5387061766-1	X856	Cord blood	Samples	2	16	Cord blood_16
+2990744823-1	X857	Cord blood	Samples	2	16	Cord blood_16
+1797209694-1	X858	Cord blood	Samples	1	16	Cord blood_16
+2310613325-1	X859	Cord blood	Samples	2	16	Cord blood_16
+564226564-1	X86	Maternal blood	Samples	1	15	Maternal blood_15
+6890530510-1	X860	Cord blood	Samples	2	16	Cord blood_16
+3626239050-1	X861	Cord blood	Samples	1	16	Cord blood_16
+7135252601-1	X862	Cord blood	Samples	1	16	Cord blood_16
+2464869726-1	X863	Cord blood	Samples	2	16	Cord blood_16
+9349309578-1	X864	Cord blood	Samples	1	16	Cord blood_16
+4109334910-1	X865	Cord blood	Samples	2	16	Cord blood_16
+3576835265-1	X866	Cord blood	Samples	2	16	Cord blood_16
+6484924404-1	X867	Cord blood	Samples	2	16	Cord blood_16
+2766572308-1	X868	Cord blood	Samples	1	16	Cord blood_16
+1799127451-1	X869	Cord blood	Samples	1	16	Cord blood_16
+9281450258-1	X87	Maternal blood	Samples	1	15	Maternal blood_15
+4998050949-1	X870	Cord blood	Samples	1	16	Cord blood_16
+4164503474-1	X871	Cord blood	Samples	1	16	Cord blood_16
+5735388028-1	X872	Cord blood	Samples	2	16	Cord blood_16
+5352692853-1	X873	Cord blood	Samples	1	16	Cord blood_16
+3632705134-1	X874	Cord blood	Samples	1	16	Cord blood_16
+7375453304-1	X875	Cord blood	Samples	2	16	Cord blood_16
+805801991-1	X876	Cord blood	Samples	1	16	Cord blood_16
+1779859835-1	X877	Cord blood	Samples	2	16	Cord blood_16
+9593091266-1	X878	Cord blood	Samples	2	16	Cord blood_16
+4435496248-1	X879	Cord blood	Samples	1	16	Cord blood_16
+2712887550-1	X88	Maternal blood	Samples	1	15	Maternal blood_15
+6025270617-1	X880	Cord blood	Samples	2	16	Cord blood_16
+3652300137-1	X881	Cord blood	Samples	2	16	Cord blood_16
+6983974583-1	X882	Cord blood	Samples	2	16	Cord blood_16
+5465114030-1	X883	Cord blood	Samples	2	16	Cord blood_16
+3132280187-1	X884	Cord blood	Samples	2	16	Cord blood_16
+2788467473-1	X885	Cord blood	Samples	1	16	Cord blood_16
+8140262792-1	X886	Cord blood	Samples	1	16	Cord blood_16
+9470367077-1	X887	Cord blood	Samples	1	16	Cord blood_16
+128470212-1	X888	Cord blood	Samples	2	16	Cord blood_16
+9320519426-1	X889	Cord blood	Samples	2	16	Cord blood_16
+5143030190-1	X89	Maternal blood	Samples	1	15	Maternal blood_15
+6269716860-1	X890	Cord blood	Samples	1	16	Cord blood_16
+4276485459-1	X891	Cord blood	Samples	2	16	Cord blood_16
+6811108280-1	X892	Cord blood	Samples	2	16	Cord blood_16
+8717468454-1	X893	Cord blood	Samples	2	16	Cord blood_16
+6927363400-1	X894	Cord blood	Samples	1	16	Cord blood_16
+4561369276-1	X895	Cord blood	Samples	2	16	Cord blood_16
+7585967945-1	X896	Cord blood	Samples	2	16	Cord blood_16
+6510356919-1	X897	Cord blood	Samples	1	16	Cord blood_16
+8874743142-1	X898	Cord blood	Samples	2	16	Cord blood_16
+3382606126-1	X899	Cord blood	Samples	1	16	Cord blood_16
+3822663828-1	X9	Maternal blood	Samples	2	15	Maternal blood_15
+9260815479-2	X90	Maternal blood	Samples	1	15	Maternal blood_15
+2939546519-1	X900	Cord blood	Samples	1	16	Cord blood_16
+5108216491-1	X901	Cord blood	Samples	1	16	Cord blood_16
+2391926628-1	X902	Cord blood	Samples	2	16	Cord blood_16
+3308233908-1	X903	Cord blood	Samples	1	16	Cord blood_16
+5046751128-1	X904	Cord blood	Samples	2	16	Cord blood_16
+287087783-1	X905	Cord blood	Samples	1	16	Cord blood_16
+7685823500-1	X906	Cord blood	Samples	1	16	Cord blood_16
+5342294781-1	X907	Cord blood	Samples	2	16	Cord blood_16
+684663085-1	X908	Cord blood	Samples	1	16	Cord blood_16
+7959535069-1	X909	Cord blood	Samples	2	16	Cord blood_16
+1406675326-1	X91	Maternal blood	Samples	2	15	Maternal blood_15
+9547613817-1	X910	Cord blood	Samples	2	16	Cord blood_16
+4335424105-1	X911	Cord blood	Samples	1	16	Cord blood_16
+1586585460-1	X912	Cord blood	Samples	1	16	Cord blood_16
+3391035880-1	X913	Cord blood	Samples	1	16	Cord blood_16
+9079419215-1	X914	Cord blood	Samples	2	16	Cord blood_16
+7676842784-1	X915	Cord blood	Samples	2	16	Cord blood_16
+2775820201-1	X916	Cord blood	Samples	1	16	Cord blood_16
+2891409761-1	X917	Cord blood	Samples	1	16	Cord blood_16
+4381259425-1	X918	Cord blood	Samples	2	16	Cord blood_16
+3867246668-1	X919	Cord blood	Samples	2	16	Cord blood_16
+3933338077-1	X92	Maternal blood	Samples	2	15	Maternal blood_15
+5468462237-1	X920	Cord blood	Samples	2	16	Cord blood_16
+7524756471-1	X921	Cord blood	Samples	2	16	Cord blood_16
+2183217016-1	X922	Cord blood	Samples	1	16	Cord blood_16
+1284947754-1	X923	Cord blood	Samples	2	16	Cord blood_16
+4358753494-1	X924	Cord blood	Samples	1	16	Cord blood_16
+8623526901-1	X925	Cord blood	Samples	1	16	Cord blood_16
+2311848831-1	X926	Cord blood	Samples	2	16	Cord blood_16
+1216706941-1	X927	Cord blood	Samples	2	16	Cord blood_16
+4144327526-1	X928	Cord blood	Samples	1	16	Cord blood_16
+3477529936-1	X929	Cord blood	Samples	1	16	Cord blood_16
+5854520018-1	X93	Maternal blood	Samples	1	15	Maternal blood_15
+4047256607-1	X930	Cord blood	Samples	2	16	Cord blood_16
+7670503639-1	X931	Cord blood	Samples	2	16	Cord blood_16
+9470877228-1	X932	Cord blood	Samples	2	16	Cord blood_16
+1225750037-1	X933	Cord blood	Samples	2	16	Cord blood_16
+8829365833-1	X934	Cord blood	Samples	1	16	Cord blood_16
+4027732691-1	X935	Cord blood	Samples	1	16	Cord blood_16
+7106787519-1	X936	Cord blood	Samples	2	16	Cord blood_16
+4900827344-1	X937	Cord blood	Samples	2	16	Cord blood_16
+2320340383-1	X938	Cord blood	Samples	1	16	Cord blood_16
+9444637126-1	X939	Cord blood	Samples	1	16	Cord blood_16
+9151849941-1	X94	Maternal blood	Samples	2	15	Maternal blood_15
+7779996328-1	X940	Cord blood	Samples	2	16	Cord blood_16
+9016681224-1	X941	Cord blood	Samples	2	16	Cord blood_16
+4648530862-1	X942	Cord blood	Samples	1	16	Cord blood_16
+6328637449-1	X943	Cord blood	Samples	2	16	Cord blood_16
+2601001436-1	X944	Cord blood	Samples	2	16	Cord blood_16
+8037037997-1	X945	Cord blood	Samples	1	16	Cord blood_16
+4273428360-1	X946	Cord blood	Samples	1	16	Cord blood_16
+3434027295-1	X947	Cord blood	Samples	2	16	Cord blood_16
+5855052231-1	X948	Cord blood	Samples	2	16	Cord blood_16
+9047965788-1	X949	Cord blood	Samples	2	16	Cord blood_16
+6287367374-1	X95	Maternal blood	Samples	2	15	Maternal blood_15
+7461756489-1	X950	Cord blood	Samples	1	16	Cord blood_16
+8960107587-1	X951	Cord blood	Samples	2	16	Cord blood_16
+3865694084-1	X952	Cord blood	Samples	1	16	Cord blood_16
+9708535573-1	X953	Cord blood	Samples	2	16	Cord blood_16
+6502698285-1	X954	Cord blood	Samples	2	16	Cord blood_16
+4337662032-1	X955	Cord blood	Samples	2	16	Cord blood_16
+4405439754-1	X956	Cord blood	Samples	2	16	Cord blood_16
+8657553064-1	X957	Cord blood	Samples	1	16	Cord blood_16
+8133937766-1	X958	Cord blood	Samples	1	16	Cord blood_16
+7634811716-1	X959	Cord blood	Samples	2	16	Cord blood_16
+8121291491-1	X96	Maternal blood	Samples	2	15	Maternal blood_15
+7693258709-1	X960	Cord blood	Samples	2	16	Cord blood_16
+5705671550-1	X961	Cord blood	Samples	1	16	Cord blood_16
+3769347147-1	X962	Cord blood	Samples	2	16	Cord blood_16
+9428003770-1	X963	Cord blood	Samples	2	16	Cord blood_16
+7512377047-1	X964	Cord blood	Samples	2	16	Cord blood_16
+1677875934-1	X965	Cord blood	Samples	1	16	Cord blood_16
+2277594559-1	X966	Cord blood	Samples	1	16	Cord blood_16
+1996007399-1	X967	Cord blood	Samples	1	16	Cord blood_16
+7828355332-1	X968	Cord blood	Samples	1	16	Cord blood_16
+5674698602-1	X969	Cord blood	Samples	2	16	Cord blood_16
+3593021176-1	X97	Maternal blood	Samples	2	15	Maternal blood_15
+9365309667-1	X970	Cord blood	Samples	1	16	Cord blood_16
+8210896057-1	X971	Cord blood	Samples	1	16	Cord blood_16
+8961878879-1	X972	Cord blood	Samples	2	16	Cord blood_16
+2810532312-1	X973	Cord blood	Samples	1	16	Cord blood_16
+4312197069-1	X974	Cord blood	Samples	2	16	Cord blood_16
+2201599335-1	X975	Cord blood	Samples	1	16	Cord blood_16
+4761226207-1	X976	Cord blood	Samples	1	16	Cord blood_16
+3448772418-1	X977	Cord blood	Samples	2	16	Cord blood_16
+4239527003-1	X978	Cord blood	Samples	1	16	Cord blood_16
+2317490066-1	X979	Cord blood	Samples	1	16	Cord blood_16
+7709758429-1	X98	Maternal blood	Samples	2	15	Maternal blood_15
+1320505603-1	X980	Cord blood	Samples	1	16	Cord blood_16
+7462022741-1	X981	Cord blood	Samples	1	16	Cord blood_16
+1434124373-1	X99	Maternal blood	Samples	2	15	Maternal blood_15
+8541505936-1	X994	Cord blood	Samples	1	17	Cord blood_17
+9061300530-1	X995	Cord blood	Samples	1	17	Cord blood_17
+9682866809-1	X996	Cord blood	Samples	1	17	Cord blood_17
+7966809136-1	X997	Cord blood	Samples	2	17	Cord blood_17
+5250510105-1	X998	Cord blood	Samples	2	17	Cord blood_17
+3961583019-1	X999	Cord blood	Samples	1	17	Cord blood_17
+QC01	QC01	QC	QC	1	QC	QC_QC
+QC02	QC02	QC	QC	1	QC	QC_QC
+QC03	QC03	QC	QC	1	QC	QC_QC
+QC04	QC04	QC	QC	1	QC	QC_QC
+QC05	QC05	QC	QC	1	QC	QC_QC
+QC06	QC06	QC	QC	1	QC	QC_QC
+QC07	QC07	QC	QC	1	QC	QC_QC
+QC08	QC08	QC	QC	1	QC	QC_QC
+QC09	QC09	QC	QC	1	QC	QC_QC
+QC10	QC10	QC	QC	1	QC	QC_QC
+QC100	QC100	QC	QC	2	QC	QC_QC
+QC101	QC101	QC	QC	2	QC	QC_QC
+QC102	QC102	QC	QC	2	QC	QC_QC
+QC103_1	QC103_1	QC	QC	2	QC	QC_QC
+QC103_2	QC103_2	QC	QC	2	QC	QC_QC
+QC103_3	QC103_3	QC	QC	2	QC	QC_QC
+QC103_4	QC103_4	QC	QC	2	QC	QC_QC
+QC103_5	QC103_5	QC	QC	2	QC	QC_QC
+QC103_6	QC103_6	QC	QC	2	QC	QC_QC
+QC11	QC11	QC	QC	1	QC	QC_QC
+QC12	QC12	QC	QC	1	QC	QC_QC
+QC13	QC13	QC	QC	1	QC	QC_QC
+QC14	QC14	QC	QC	1	QC	QC_QC
+QC15	QC15	QC	QC	1	QC	QC_QC
+QC16	QC16	QC	QC	1	QC	QC_QC
+QC17	QC17	QC	QC	1	QC	QC_QC
+QC18	QC18	QC	QC	1	QC	QC_QC
+QC19	QC19	QC	QC	1	QC	QC_QC
+QC20	QC20	QC	QC	1	QC	QC_QC
+QC21	QC21	QC	QC	1	QC	QC_QC
+QC22	QC22	QC	QC	1	QC	QC_QC
+QC23	QC23	QC	QC	1	QC	QC_QC
+QC24	QC24	QC	QC	1	QC	QC_QC
+QC25	QC25	QC	QC	1	QC	QC_QC
+QC26	QC26	QC	QC	1	QC	QC_QC
+QC27	QC27	QC	QC	1	QC	QC_QC
+QC28	QC28	QC	QC	1	QC	QC_QC
+QC29	QC29	QC	QC	1	QC	QC_QC
+QC30	QC30	QC	QC	1	QC	QC_QC
+QC31	QC31	QC	QC	1	QC	QC_QC
+QC32	QC32	QC	QC	1	QC	QC_QC
+QC33	QC33	QC	QC	1	QC	QC_QC
+QC34	QC34	QC	QC	1	QC	QC_QC
+QC35	QC35	QC	QC	1	QC	QC_QC
+QC36	QC36	QC	QC	1	QC	QC_QC
+QC37	QC37	QC	QC	1	QC	QC_QC
+QC38	QC38	QC	QC	1	QC	QC_QC
+QC39	QC39	QC	QC	1	QC	QC_QC
+QC40	QC40	QC	QC	1	QC	QC_QC
+QC41	QC41	QC	QC	1	QC	QC_QC
+QC42	QC42	QC	QC	1	QC	QC_QC
+QC43	QC43	QC	QC	1	QC	QC_QC
+QC44	QC44	QC	QC	1	QC	QC_QC
+QC45	QC45	QC	QC	1	QC	QC_QC
+QC46	QC46	QC	QC	1	QC	QC_QC
+QC47	QC47	QC	QC	1	QC	QC_QC
+QC48	QC48	QC	QC	1	QC	QC_QC
+QC49	QC49	QC	QC	1	QC	QC_QC
+QC50	QC50	QC	QC	1	QC	QC_QC
+QC51_1	QC51_1	QC	QC	1	QC	QC_QC
+QC51_2	QC51_2	QC	QC	1	QC	QC_QC
+QC51_3	QC51_3	QC	QC	1	QC	QC_QC
+QC51_4	QC51_4	QC	QC	1	QC	QC_QC
+QC51_5	QC51_5	QC	QC	1	QC	QC_QC
+QC51_6	QC51_6	QC	QC	1	QC	QC_QC
+QC52_1	QC52_1	QC	QC	2	QC	QC_QC
+QC52_2	QC52_2	QC	QC	2	QC	QC_QC
+QC52_3	QC52_3	QC	QC	2	QC	QC_QC
+QC52_4	QC52_4	QC	QC	2	QC	QC_QC
+QC52_5	QC52_5	QC	QC	2	QC	QC_QC
+QC52_6	QC52_6	QC	QC	2	QC	QC_QC
+QC53	QC53	QC	QC	2	QC	QC_QC
+QC54	QC54	QC	QC	2	QC	QC_QC
+QC55	QC55	QC	QC	2	QC	QC_QC
+QC56	QC56	QC	QC	2	QC	QC_QC
+QC57	QC57	QC	QC	2	QC	QC_QC
+QC58	QC58	QC	QC	2	QC	QC_QC
+QC59	QC59	QC	QC	2	QC	QC_QC
+QC60	QC60	QC	QC	2	QC	QC_QC
+QC61	QC61	QC	QC	2	QC	QC_QC
+QC62	QC62	QC	QC	2	QC	QC_QC
+QC63	QC63	QC	QC	2	QC	QC_QC
+QC64	QC64	QC	QC	2	QC	QC_QC
+QC65	QC65	QC	QC	2	QC	QC_QC
+QC66	QC66	QC	QC	2	QC	QC_QC
+QC67	QC67	QC	QC	2	QC	QC_QC
+QC68	QC68	QC	QC	2	QC	QC_QC
+QC69	QC69	QC	QC	2	QC	QC_QC
+QC70	QC70	QC	QC	2	QC	QC_QC
+QC71	QC71	QC	QC	2	QC	QC_QC
+QC72	QC72	QC	QC	2	QC	QC_QC
+QC73	QC73	QC	QC	2	QC	QC_QC
+QC74	QC74	QC	QC	2	QC	QC_QC
+QC75	QC75	QC	QC	2	QC	QC_QC
+QC76	QC76	QC	QC	2	QC	QC_QC
+QC77	QC77	QC	QC	2	QC	QC_QC
+QC78	QC78	QC	QC	2	QC	QC_QC
+QC79	QC79	QC	QC	2	QC	QC_QC
+QC80	QC80	QC	QC	2	QC	QC_QC
+QC81	QC81	QC	QC	2	QC	QC_QC
+QC82	QC82	QC	QC	2	QC	QC_QC
+QC83	QC83	QC	QC	2	QC	QC_QC
+QC84	QC84	QC	QC	2	QC	QC_QC
+QC85	QC85	QC	QC	2	QC	QC_QC
+QC86	QC86	QC	QC	2	QC	QC_QC
+QC87	QC87	QC	QC	2	QC	QC_QC
+QC88	QC88	QC	QC	2	QC	QC_QC
+QC89	QC89	QC	QC	2	QC	QC_QC
+QC90	QC90	QC	QC	2	QC	QC_QC
+QC91	QC91	QC	QC	2	QC	QC_QC
+QC92	QC92	QC	QC	2	QC	QC_QC
+QC93	QC93	QC	QC	2	QC	QC_QC
+QC94	QC94	QC	QC	2	QC	QC_QC
+QC95	QC95	QC	QC	2	QC	QC_QC
+QC96	QC96	QC	QC	2	QC	QC_QC
+QC97	QC97	QC	QC	2	QC	QC_QC
+QC98	QC98	QC	QC	2	QC	QC_QC
+QC99	QC99	QC	QC	2	QC	QC_QC
