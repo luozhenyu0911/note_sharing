@@ -18,7 +18,21 @@ install.packages(
   )
 )
 
-
+BiocManager::version()
+options(BioC_mirror = "https://mirrors.tuna.tsinghua.edu.cn/Bioconductor")
+BiocManager::install("VariantAnnotation")
 BiocManager::install('VariantAnnotation')
+BiocManager::install("VariantAnnotation")
+
+devtools::install_github("Bioconductor/VariantAnnotation")
+
+BiocManager::install("VariantAnnotation", version = "3.19")
+
+
+
+
+
+
+
 
 
